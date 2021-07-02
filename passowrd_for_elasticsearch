@@ -1,0 +1,14 @@
+Changed password for user apm_system
+PASSWORD apm_system = 2HK0bw0tTxioF7LtVgoS
+Changed password for user kibana_system
+PASSWORD kibana_system = S1uoiam7S2VhgbggmL7A
+Changed password for user kibana
+PASSWORD kibana = S1uoiam7S2VhgbggmL7A
+Changed password for user logstash_system
+PASSWORD logstash_system = YX5Kf9HyziVZDc0Q5wmn
+Changed password for user beats_system
+PASSWORD beats_system = nipcYuPCj5NYZrWmhyvI
+Changed password for user remote_monitoring_user
+PASSWORD remote_monitoring_user = nIHrJwWvZ6s6JpEvAK2f
+Changed password for user elastic
+PASSWORD elastic = bAycyH5fAsSkXt7opS3Q
